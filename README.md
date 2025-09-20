@@ -34,8 +34,8 @@ go run ./cmd/server
 
 helloapi/  
 ├── cmd/  
-│      └── server/  
-│              └── main.go  
+│         └── server/  
+│                 └── main.go  
 ├── go.mod  
 ├── go.sum
 

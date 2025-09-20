@@ -36,6 +36,7 @@ helloapi/
 │              └── main.go  
 ├── go.mod  
 ├── go.sum
+
 └── helloapi.exe
 
 ## Запросы, на которые отвечает сервер

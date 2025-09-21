@@ -10,6 +10,8 @@
 ---
 
 ## Установка и запуск
+Версия Go
+![photo_5364233910562714441_x](https://github.com/user-attachments/assets/b41e11b4-0d56-436b-82e6-4ce3c5e6027b)
 
 (Необходимы предустановленные Go и Git)
 
@@ -50,6 +52,8 @@ curl http://localhost:8080/hello
 - Возвращает текстовый ответ "Hello, world!"
 
 - Content-Type: text/plain
+![photo_5364233910562714442_y](https://github.com/user-attachments/assets/b2b28eaf-19b8-46f1-9e23-fbe171f95e8b)
+
 ```
 curl http://localhost:8080/user
 ```
@@ -60,6 +64,8 @@ curl http://localhost:8080/user
 - Содержит фиксированное имя "Gopher"
 
 - Content-Type: application/json
+![photo_5364233910562714443_y](https://github.com/user-attachments/assets/1331ef14-21dd-4316-8d9a-84165a19c7c3)
+
 ```
 curl http://localhost:8080/health
 ```
@@ -70,6 +76,7 @@ curl http://localhost:8080/health
 - Всегда возвращает статус "ok"
 
 - Content-Type: application/json
+![photo_5364233910562714444_y](https://github.com/user-attachments/assets/36cc0a1e-d0e4-4a2c-9c1a-30261e141470)
 
 ------
 

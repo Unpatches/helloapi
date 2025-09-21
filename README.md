@@ -11,6 +11,7 @@
 
 ## Установка и запуск
 Версия Go
+
 ![photo_5364233910562714441_x](https://github.com/user-attachments/assets/b41e11b4-0d56-436b-82e6-4ce3c5e6027b)
 
 (Необходимы предустановленные Go и Git)
